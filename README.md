@@ -8,6 +8,14 @@ We don't write papers about things we haven't built. Every paper here is backed 
 
 ## Papers
 
+### InKH — Interaction-Native Knowledge Harness (2026)
+
+**Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents**
+
+Converts user, market, portfolio, and tool events into structured operational knowledge using passive injection, temporal graph memory, and audit surfaces. 0.815 task quality at 900ms latency — 82.95% faster than agent-driven alternatives.
+- [Paper on arXiv](https://arxiv.org/abs/2606.01886)
+- [Details & BibTeX](./InKH/)
+
 ### SAE — Survivability-Aware Execution (2026)
 
 **Execution Is the New Attack Surface: Survivability-Aware Agentic Crypto Trading with OpenClaw-Style Local Executors**
