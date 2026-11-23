@@ -1,6 +1,6 @@
 # INC4 Research
 
-Published research from [INC4](https://inc4.net) — House of Tech for AI & Web3.
+Published research from [INC4](https://inc4.net), an engineering studio that builds software and AI for complex systems.
 
 We don't write papers about things we haven't built. Every paper here is backed by production systems and open-source code.
 
@@ -30,6 +30,6 @@ A middleware layer for agent-based crypto trading that enforces execution safegu
 
 ## About INC4
 
-INC4 is a House of Tech for AI and Web3, founded in 2013. Five centers under one roof — AI Lab, Blockchain Hub, Algotrading Software, Infra & DevOps, and Compute Infrastructure.
+INC4 is an engineering studio that builds software and AI for complex systems, like financial products. Founded in 2013, with teams in Kyiv and Lisbon. Clients start with one of three offers: infrastructure review and optimization, MVP to Production, or self-hosted AI.
 
-[Website](https://inc4.net) · [LinkedIn](https://www.linkedin.com/company/inc4) · [Twitter/X](https://x.com/INC_4_)
+hello@inc4.net · [Website](https://inc4.net) · [LinkedIn](https://www.linkedin.com/company/inc4) · [Twitter/X](https://x.com/INC_4_)
